@@ -1,2 +1,4 @@
-This repository contains a machine learning project focused on predicting customer churn using a dataset that includes various customer attributes and service usage information. The project involves data preprocessing, exploratory data analysis, feature engineering, model selection, and evaluation.
-The repository includes a wide of range hands-on exercises, SQL queries and notes while I have been learning and practicing through using PostgreSQL, BigQuery and Looker Studio The practical exercises aimed at improving my ability to write SQL queries for data analysis. It includes BigQuery scripts as well.
+The repository includes hands-on Python exercises and notes I created while learning and practicing using Pandas, NumPy, Matplotlib and Seaborn libraries. These codes aim to improve my ability to write Python code for data analysis and visualizations.
+
+
+
