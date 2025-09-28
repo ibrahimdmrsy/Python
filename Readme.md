@@ -1,0 +1,1 @@
+This repository contains a machine learning project focused on predicting customer churn using a dataset that includes various customer attributes and service usage information. The project involves data preprocessing, exploratory data analysis, feature engineering, model selection, and evaluation.
